@@ -1,5 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
 
+
 // Importing all components
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";   
 
